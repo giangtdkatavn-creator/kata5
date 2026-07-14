@@ -1,2 +1,2 @@
-# kata5
+# profilekata
 kata
